@@ -1,4 +1,1 @@
-primeiro sistema no git.
-
-alterando o README.md
-linha adicionada no branch MASTER.
+primeiro sistema no git.(alterado e atualizado).
