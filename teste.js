@@ -1,1 +1,0 @@
-alert("teste do javascript");
